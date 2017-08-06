@@ -8,7 +8,8 @@ To run the application the first is:
 $ Flask\Scripts\activate.bat
 
 3).Set the flask variable:
-$ Export FLASK_APP = main.py
+$ Export FLASK_APP = main.py # if you are using MAC OS or LINUX 
+$ Set FLASK_APP = main.py # if you are using Windows
 
 4).Run Flask
 $ Flask run
